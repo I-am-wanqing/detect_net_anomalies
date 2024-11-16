@@ -1,0 +1,4 @@
+- net_anomalies.py 文件中包含完整的实验代码
+- result 文件中存放了实验结果
+- ./dataSet/simargl-2021-combined.parquet 文件下是实验使用的数据集，因为数据集过大，故省略
+- 数据集来源：https://www.kaggle.com/datasets/dhoogla/simargl-2021
